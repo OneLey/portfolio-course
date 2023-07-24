@@ -111,6 +111,7 @@ body {
 }
 a {
 	cursor: pointer;
+	color: #000;
 }
 /* Обо мне */
 .about-me {
